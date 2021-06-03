@@ -1,4 +1,4 @@
-
+# Import libraries
 from turtle import Turtle
 import random
 
